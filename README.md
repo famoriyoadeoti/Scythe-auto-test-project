@@ -4,7 +4,7 @@ This repository demonstrates a Python project with a CI/CD pipeline using Jenkin
 
 ## Final output screenshot
 
-![Jenkins Pipeline Results](https://github.com/cvamsikrishna11/python-cicd-repo/blob/main/result.png)
+![Jenkins Pipeline Results](https://github.com/famoriyoadeoti/Scythe-auto-test-project/blob/76e009b09ced9141f3c76ef82adfd648693a1c21/result.png)
 
 
 ![Code Coverage Summary](https://github.com/cvamsikrishna11/python-cicd-repo/blob/main/coverage-summary.png)
@@ -12,7 +12,7 @@ This repository demonstrates a Python project with a CI/CD pipeline using Jenkin
 
 ## Prerequisites
 
-1. Jenkins installed on your system or server. (You can utilize this EC2 userdata to setup the jenkins and python https://github.com/cvamsikrishna11/devops-fully-automated/blob/installations/jenkins-maven-ansible-setup.sh)
+1. Jenkins installed on your system or server. (You can utilize this EC2 userdata to setup the jenkins and python https://github.com/famoriyoadeoti/Scythe-auto-test-project/blob/76e009b09ced9141f3c76ef82adfd648693a1c21/dependencies-userdata.sh)
 2. Python 3.x installed on your Jenkins build agent.
 
 ## Required Jenkins Plugins
@@ -35,7 +35,7 @@ To install the required plugins, follow these steps:
 1. Clone this repository to your local machine.
 2. In Jenkins, create a new Pipeline job.
 3. In the Pipeline job configuration, select "Pipeline script from SCM" under the "Pipeline" section.
-4. Choose "Git" as the SCM and enter the URL of your repository (https://github.com/cvamsikrishna11/python-cicd-repo.git).
+4. Choose "Git" as the SCM and enter the URL of your repository (https://github.com/famoriyoadeoti/Scythe-auto-test-project.git).
 5. Save the job configuration.
 
 ## Running the Build Process

@@ -4,10 +4,10 @@ This repository demonstrates a Python project with a CI/CD pipeline using Jenkin
 
 ## Final output screenshot
 
-![Jenkins Pipeline Results](https://github.com/famoriyoadeoti/Scythe-auto-test-project/blob/76e009b09ced9141f3c76ef82adfd648693a1c21/result.png)
+![Jenkins Pipeline Results](https://github.com/famoriyoadeoti/Scythe-auto-test-project/blob/a22115f2fe7e4b3cfbf9cd1c39718f2a2c79fbb7/result.png)
 
 
-![Code Coverage Summary](https://github.com/cvamsikrishna11/python-cicd-repo/blob/main/coverage-summary.png)
+![Code Coverage Summary](https://github.com/famoriyoadeoti/Scythe-auto-test-project/blob/a22115f2fe7e4b3cfbf9cd1c39718f2a2c79fbb7/coverage-summary.png)
 
 
 ## Prerequisites
